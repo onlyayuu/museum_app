@@ -9,10 +9,10 @@ Aplikasi museum sederhana untuk menampilkan koleksi karya seni. Proyek ini dikem
 * ### 🖼️ Screenshot
 
 Tampilan Halaman Utama
-![Halaman Utama](https://github.com/onlyayuu/museum_app/blob/main/assets/screenshots/lamanutama.png)
+![Halaman Utama](assets/screenshots/lamanutama.png)
 
-Tampilan Detail Karya Seni
-![Detail Karya Seni](https://github.com/onlyayuu/museum_app/blob/main/assets/screenshots/detil.png)
+#### Tampilan Detail Karya Seni
+![Detail Karya Seni](assets/screenshots/detil.png)
 
 *Dikembangkan oleh:*
 Galuh Ayu Cahyaningrum, XII RPL 2
